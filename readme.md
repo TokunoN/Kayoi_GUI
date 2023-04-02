@@ -1,6 +1,6 @@
 # 概要
 - [通い農業支援システム](https://github.com/YoshimichiYAMASHITA/KayoinougyouShienSystem)をベースに、Wio Node を使用せずに、センサとI2C通信を行ってデータを取得する方法を追加した。  
-- 通い農業支援システム導入のハードルを下げることを目的として、Python プログラムや Linux コマンド が必要な操作を GUI アプリケーション化した。  
+- 通い農業支援システム導入のハードルを下げることを目的として、Python プログラムの実行や LXterminal でのコマンド入力が必要な操作を GUI アプリケーション化した。  
 
 
 # なぜWio Nodeを使用しないか
