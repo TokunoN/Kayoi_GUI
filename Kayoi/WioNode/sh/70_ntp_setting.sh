@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# 参考元
+# https://arakoki70.com/?p=5691
+
 LOG_OUT="$HOME/Desktop/Kayoi_GUI/Kayoi/WioNode/stdout.log"
 LOG_ERR="$HOME/Desktop/Kayoi_GUI/Kayoi/WioNode/stderr.log"
 touch "$LOG_OUT"
