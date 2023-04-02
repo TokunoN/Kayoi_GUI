@@ -1,0 +1,5 @@
+,run_flag,run_span
+data_getting,True,10
+notify_alert,True,10
+notify_period,True,60
+data_receiving,True,10
